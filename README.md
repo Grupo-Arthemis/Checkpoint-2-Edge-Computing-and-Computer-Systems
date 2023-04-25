@@ -19,22 +19,11 @@ Dado que já auxiliamos anteriormente com a questão da luminosidade agora iremo
 - Precisamos aprender a utilizar um display de LCD para exibir esses valores e integrar ele com o sistema já criado de funcionalidade para temperatura e umidade além de sinalizar com os LEDs e o Buzzer a luminosidade indicar quando a temperatura e/ou a umidade estiverem em níveis críticos.
 
 ## Desenvolvimento do projeto
-   - Enfrentamos alguns desafios durante o desenvolvimento...
+   - Enfrentamos alguns desafios durante o desenvolvimento da prioridade de acontecimentos para o arduino retornar de forma responsiva com os leds e o buzzer de acordo com o cenario apresentado.
 
  ### Esquema de montagem ###
  
   ### Codigo Utilizado ###
   
   ## Pré-requisitos
-  - 1 Protoboard
-   - 13 Jumpers 
-   - 2 Resistores de 100Ω
-   - 1 Resistores de 150MΩ
-   - 1 Resistores de 220MΩ
-   - 1 Resistores de 10MΩ
-   - 3 LEDs sendo (1 Vermelho, 1 Amarelo e 1 Verde)
-   - 1 Sensor de luminosidade LDR
-   - 1 sensor de temperatura e 1 potenciometro para simular o Sensor de Umidade e Temperatura – DHT11
-   - 1 LCD 16 x 2
-   - 1 Arduino (Utilizamos o UNO mas existem outras alternativas caso o UNO não seja uma opção)
-   - 1 Piezo
+  
